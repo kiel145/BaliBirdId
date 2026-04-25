@@ -1,0 +1,18 @@
+file,species,correctly_predicted
+img_1,Pycnonotus goiavier,TRUE
+img_2,Spilopelia chinensis,TRUE
+img_3,Ardeola speciosa,TRUE
+img_4,Lonchura leucogastroides,TRUE
+img_5,Lonchura punctulata,TRUE
+img_6,Geopelia striata,TRUE
+img_7,Cinnyris ornatus,TRUE
+img_8,Passer montanus,TRUE
+img_9,Ardea coromanda,TRUE
+img_10,Todiramphus chloris,TRUE
+img_11,Leucopsar rothschildi,TRUE
+img_12,Pycnonotus aurigaster,TRUE
+img_13,Acridotheres javanicus,TRUE
+img_14,Lanius schach,TRUE
+img_15,Hydrornis guajanus,TRUE
+img_16,Egretta garzetta,FALSE
+img_17,Alcedo coerulescens,FALSE
